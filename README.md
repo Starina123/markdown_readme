@@ -8,7 +8,7 @@ Getting started with Markdown
 - [List](#list)
 	- [List CheckBox](#list-checkbox)
 - [Link](#link)
-	- [Anchor links](#anchor-links)
+	- [Anchor links](#anchor-links)ee
 - [Blockquote](#blockquote)
 - [Image | GIF](#image--gif)
 - [Style Text](#style-text)
